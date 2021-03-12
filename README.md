@@ -36,5 +36,5 @@ change global parameters to preferred values.
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@MarkoShiva](https://github.com/MarkoShiva) - Idea & Initial work
-- [@enceladosaurus](https://github.com/enceladosaurus) - Freunde
+- [@enceladosaurus](https://github.com/enceladosaurus) - Streamer
 
