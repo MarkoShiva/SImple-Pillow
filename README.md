@@ -18,11 +18,15 @@
 </p>
 
 
-
+### Installation
 Uses python 3.9 however it should work with any version of Python3 that supports PIL.
-
+```
+python -m venv venv
+source venv/bin/activate 
+pip install -r _requirements.txt
+```
 code is self explanatory.
-change global parameters in preferred values.
+change global parameters to preferred values.
 
 
 ### TODO :
